@@ -1,16 +1,28 @@
 *{
     text-align: center;
 }
+p {
+    font-family: Platypi;
+  }
 
 body {
     color:rgb(20, 20, 17);
     font-size: 25px;
 }
 
-h3{
-    background-color: #FEC7B4;
-}
 h1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 700;
+}
+
+h3{
+    background-color: #FEC7B4;
+}
+
+#img{
+    border:5px solid red
+}
+div{
+    padding: 100px;
+    border: 20px solid red;
 }
